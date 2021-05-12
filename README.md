@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anikey-Vyawahare
+- 👋 Hi, I’m @Aniket-Vyawahare
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Python
 - 📫 You can rech me @+91 7507378922 or annu.vyawahare.av@gmail.com
